@@ -1,1 +1,0 @@
-# pratyakshapps.github.io
