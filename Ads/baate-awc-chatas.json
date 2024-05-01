@@ -10,8 +10,8 @@
 				"AdAppKey": "988410712785605",
 				"BannerAdKey": "988410712785605_988411452785531",
 				"InterstitialAdKey": "988410712785605_988411362785540",
-				"RewardedAdKey": "",
-				"NativeAdKey": ""
+				"RewardedAdKey": "988410712785605_989127442713932",
+				"NativeAdKey": "988410712785605_989127262713950"
 			},
             {
                 "MonetizationId": 6,
@@ -24,12 +24,12 @@
             },
 			{
 				"MonetizationId": 5,
-				"MonetizerName": "UnityAds",
-				"AdAppKey": "4935449",
-				"BannerAdKey": "Banner_Android",
-				"InterstitialAdKey": "Interstitial_Android",
-				"RewardedAdKey": "Rewarded_Android",
-				"NativeAdKey": ""
+                "MonetizerName": "UnityAds",
+                "AdAppKey": "5004033",
+                "BannerAdKey": "Banner_Android",
+                "InterstitialAdKey": "Interstitial_Android",
+                "RewardedAdKey": "Rewarded_Android",
+                "NativeAdKey": ""
 			}
         ]
     },
